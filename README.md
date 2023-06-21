@@ -138,3 +138,5 @@ Nest is [MIT licensed](LICENSE).
 -- 24. after step 23 run command '$: docker run sleepr_reservations'
 -- 25. create 'docker-compose.yaml' file under root level and run the command 'docker compose up'
 -- 26. change the 'docker-compose.yaml', run command 'docker-compose down, docker-compose up'
+-- 27. generate auth app 'nest g app auth', 'nest g module users, 'nest g controller users' under the auth app directory
+-- 28. run specific microservices command 'npm run start:dev auth'
