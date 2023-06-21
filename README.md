@@ -131,3 +131,8 @@ Nest is [MIT licensed](LICENSE).
 -- 17. npm i nestjs-pino pino-http for log
 -- 18. npm i pino-pretty
 -- 19. nest g module logger for common use in every microservices
+-- 20. create 'Dockerfile' file under apps/reservation/' directory and write the code
+-- 21. create '.dockerignore' file under root level and write the code
+-- 22. goto '$: cd apps/reservation/'
+-- 23. run the '$: docker build ../../ -f Dockerfile -t sleepr_reservations' command
+-- 24. after step 23 run command '$: docker run sleepr_reservations'
