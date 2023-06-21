@@ -127,3 +127,6 @@ Nest is [MIT licensed](LICENSE).
     }
 --14. delete project("sleepr-microservices") named directory under apps directory
 --15. nest g resource reservation
+-- 16. npm i class-validator class-transformer
+-- 17. npm i nestjs-pino pino-http for log
+-- 18. npm i pino-pretty
