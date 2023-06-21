@@ -130,3 +130,4 @@ Nest is [MIT licensed](LICENSE).
 -- 16. npm i class-validator class-transformer
 -- 17. npm i nestjs-pino pino-http for log
 -- 18. npm i pino-pretty
+-- 19. nest g module logger for common use in every microservices
