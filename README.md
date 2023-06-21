@@ -136,3 +136,5 @@ Nest is [MIT licensed](LICENSE).
 -- 22. goto '$: cd apps/reservation/'
 -- 23. run the '$: docker build ../../ -f Dockerfile -t sleepr_reservations' command
 -- 24. after step 23 run command '$: docker run sleepr_reservations'
+-- 25. create 'docker-compose.yaml' file under root level and run the command 'docker compose up'
+-- 26. change the 'docker-compose.yaml', run command 'docker-compose down, docker-compose up'
