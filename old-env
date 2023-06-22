@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb://mongo:27017/sleepr
+JWT_SECRET=dsdsdrererererf5454fdfdsf
+JWT_EXPIRATION=3600

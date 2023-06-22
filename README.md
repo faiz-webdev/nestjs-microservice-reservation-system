@@ -140,3 +140,6 @@ Nest is [MIT licensed](LICENSE).
 -- 26. change the 'docker-compose.yaml', run command 'docker-compose down, docker-compose up'
 -- 27. generate auth app 'nest g app auth', 'nest g module users, 'nest g controller users' under the auth app directory
 -- 28. run specific microservices command 'npm run start:dev auth'
+-- 29. run npm i @nestjs/passport passport passport-local
+-- 30. run npm i -D  @types/passport-local
+-- 31. run npm i @nestjs/jwt passport-jwt, npm i -D @types/passport-jwt
