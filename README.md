@@ -145,3 +145,4 @@ Nest is [MIT licensed](LICENSE).
 -- 31. run npm i @nestjs/jwt passport-jwt, npm i -D @types/passport-jwt
 -- 32. run npm i bcrypt, npm i -D @types/bcrypt
 -- 33. npm i bcryptjs express, npm i -D @types/bcryptjs
+-- 34. npm i cookie-parser for the cookie parser, npm i -D @types/cookie-parser
