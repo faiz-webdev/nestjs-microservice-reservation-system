@@ -147,3 +147,5 @@ Nest is [MIT licensed](LICENSE).
 -- 33. npm i bcryptjs express, npm i -D @types/bcryptjs
 -- 34. npm i cookie-parser for the cookie parser, npm i -D @types/cookie-parser
 -- 35. npm i @nestjs/microservices
+-- 36. nest g app payments
+-- 37. npm i stripe
